@@ -1,2 +1,4 @@
-Title
-This is a demo repo for git practice
+
+# Git course
+
+Follow the [Git_Course_Notes.pdf](Git_Course_Notes.pdf) for learning and tutorial.
