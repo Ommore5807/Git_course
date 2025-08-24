@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<OpenSCENARIO>
+  <FileHeader author="The MathWorks" date="2025-08-19T17:05:17" description="Sample Scenario" revMajor="1" revMinor="0"/>
+  <Catalog name="Scenario_VehicleCatalog">
+    <Vehicle name="Car1" vehicleCategory="car">
+      <BoundingBox>
+        <Center x="1.35" y="0" z="0"/>
+        <Dimensions height="1.4" length="4.7" width="1.8"/>
+      </BoundingBox>
+      <Performance maxAcceleration="5.36" maxDeceleration="6" maxSpeed="39"/>
+      <Axles>
+        <FrontAxle maxSteering="0.5" positionX="2.8" positionZ="0.1905" trackWidth="1.8" wheelDiameter="0.381"/>
+        <RearAxle maxSteering="0.5" positionX="0" positionZ="0.1905" trackWidth="1.8" wheelDiameter="0.381"/>
+      </Axles>
+      <Properties/>
+    </Vehicle>
+  </Catalog>
+</OpenSCENARIO>
+modify a.txt
